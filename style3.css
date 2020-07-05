@@ -131,15 +131,14 @@ header .logo h1{
 }
 
 footer {
-    backg .colter 
-  color:aqua  hht:100px;
-    wih:100%;
-    clr:both;adding: 40px;
-   idth: 100%;
+    background-color:aqua  
+    height:100px;
+    width:100%;
+    clr:both;
+    padding: 40px;
 }
-.foer-logo {
-   
- float: left;
+.footer-logo {
+    float: left;
     font-size: 32px;
 }
 footer li {
